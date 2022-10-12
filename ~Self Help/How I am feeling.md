@@ -1,0 +1,5 @@
+I can't force myself to write, it's a pain in the ass. I am so scared that I am wasting my time here, but I really do love to write. Its super fun to write. When I write I cringe at my own writing at most times, without editing it feels like I am producing steaming piles of shit. How do I improve my writing? by reading more! READ MORE is what everyone tells me, but good god it is so hard to read stuff critically or even for the sake of enjomeny, I have tried reading, the only book I was succefully able to read out of the last 5 novel was The theory of everything, and even that I did read only a few chapters. SEE I AM CRINGING EVEN WHILE WRITING THIS. I WANT TO DIE OR ATLEAST I WANT TO DO SOMETHING THAT WILL NOT CAUSE me pain. 
+
+
+Why Am i like this? others can do it but not me. Look at akansha, she while working became a published author. COMMON THATS amazing. I JUST WANT TO BE GOOD AT SOMETHING, not the BEST BUT GOOD. I want to feel needed and I want to feel like I have a place in this society. BUT GOOD GOD I CANNOT DO ANYTHING RIGHT! I HAVE NO PROPER SKILLS. EVEN IF I DO, I FEEL LIKE EVERY DAY IS A CHORE AND I REALLY DON"T FEEL LIKE DOING ANYTHING.
+

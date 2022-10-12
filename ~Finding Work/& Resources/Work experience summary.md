@@ -1,0 +1,7 @@
+OFFICIAL WORK EXPERIENCE:
+I have worked as a content strategist for two Very Large E-learning companies in India (Intellipaat & GreatLearning) over the last two years. I have had quite some experience delivering content through Planning, research, prototyping, creating storylines, scripting, and more. My responsibilities included - User Experience within the context of content delivery, Content Strategy, YouTube Management & Marketing, Writing Articles, auditing, and technical research. A few side skills that I picked up - Teaching, Organization, Marketing, and Communication.
+
+UNOFFICIAL WORK EXPERIENCE:
+In my free time I craft worlds, write lore, poem, short stories, writing prompts, excerpts, philosophical essays, narrative games. You can see the best of my writing work here in my portfolio - https://ramendratripathi.github.io/. 
+
+I joined a small indie group trying to create a game called FOUR MOONS - TALES OF OCCI. I help with creating the World, writing lore, writing story, game design elements, and more. The project aims to tell a story but it is also to learn how to work with others (writers, game developers, and more) in synchronicity while setting goals and timelines for ourselves and then delivering upon them. It's sort of a learning experience to prepare ourselves for the real gaming industry and also to make connections.

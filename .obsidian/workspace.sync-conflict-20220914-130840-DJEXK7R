@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "844c48919d2a2e7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9d44ef0b8f48763",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Portfolio Rework Dialogue.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "755242ddacc14b68",
+    "type": "split",
+    "children": [
+      {
+        "id": "95b7574036a49f9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6324ad1704bddfb3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a7522ef4d473e78e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 257.5
+  },
+  "right": {
+    "id": "0edffbf0cf4b0101",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a3f5189887ade97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39f81d512452f366",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Portfolio Rework Dialogue.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d9d44ef0b8f48763",
+  "lastOpenFiles": [
+    "~~Z-Current Work~~/Work Outline - For today.md",
+    "Portfolio Rework Dialogue.md",
+    "~~Finding Work~~/Learning what I want/Creative Taste Discovery.md",
+    "~~Writtern Work~~/Feedback/Mettle - Dialogue Feedback.md",
+    "~~Writtern Work~~/&Lost Attic/Lost Attic Notes.md",
+    "~~Writtern Work~~/&Project Pilot Patrol/Project Pilot Patrol Notes.md",
+    "Immersive games.md",
+    "~~Writtern Work~~/Writing Excerpts/Those who walk behind us.md",
+    "~~Writtern Work~~/Writing Excerpts/Black day - inspired of me sleeping at 4 everyday..md",
+    "~~Writtern Work~~/Writing Excerpts/Acintya Dialogue.md"
+  ]
+}

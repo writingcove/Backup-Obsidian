@@ -1,0 +1,109 @@
+{
+  "main": {
+    "id": "844c48919d2a2e7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "369fac2b8aff6c65",
+        "type": "leaf",
+        "state": {
+          "type": "kanban",
+          "state": {
+            "file": "~Z-Daily Do/Templates & Misc/Work Space Template.md"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "01916b5b6b4cea24",
+    "type": "split",
+    "children": [
+      {
+        "id": "68db2ed5a5b2e69a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45c2b0ff584b99ca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "feb7182a5564e910",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "915bbf8f7e52a43b",
+    "type": "split",
+    "children": [
+      {
+        "id": "569d7557e7ce3383",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e01c7f0840a7815",
+            "type": "leaf",
+            "state": {
+              "type": "stats-tracker",
+              "state": {}
+            }
+          },
+          {
+            "id": "9aee553364785874",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "~Z-Daily Do/Templates & Misc/Work Space Template.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1e01c7f0840a7815",
+  "lastOpenFiles": [
+    "~Z-Daily Do/Templates & Misc/Work Space Template.md",
+    "~Z-Daily Do/Daily Journal/October/2022-10-12.md",
+    "Main Work.md",
+    "~Z-Daily Do/Templates & Misc/Daily Journal Template.md",
+    "~Z-Daily Do/Daily Journal/October/2022-10-10.md",
+    "~Z-Daily Do/Templates & Misc/Work Outlines.md",
+    "~Writing/Ideas - Things I can do.md",
+    "~Writing/&! Writing Excerpts/Acintya Dialogue.md",
+    "~Writing/&! Writing Excerpts/Those who walk behind us.md",
+    "~ACHINTYA-PREQUEL/1.Pre-Production/ACINTYA PREQUEL IDEAS.md"
+  ]
+}

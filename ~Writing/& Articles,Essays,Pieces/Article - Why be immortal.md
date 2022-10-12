@@ -1,0 +1,1 @@
+Immortality will cause boredom is a shallow thought, because with immortality you will have more time and with more time you will have new priorities that you can't even conceive right now. Imagine from the perspective of a hunter gatherer, their priority was to survive but ours is much different we want to do more than survive. Who know what we may want in future.

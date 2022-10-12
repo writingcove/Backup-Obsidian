@@ -1,0 +1,6 @@
+- 3D audio, walking in an empty room, suddenly you hear a whisper into your ear
+- Constant stench and stuffiness 
+- Unbearable humidity in some places, other cold. 
+- It's been so long, everything is corroded 
+- knee deep water
+- 

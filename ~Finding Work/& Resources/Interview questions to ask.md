@@ -1,0 +1,1 @@
+What happens if for any unforseen circumstances the company goes under and you have to let me go. 

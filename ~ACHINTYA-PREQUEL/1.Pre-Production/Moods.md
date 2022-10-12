@@ -1,0 +1,13 @@
+- Lonely  
+- Dark  
+- Cold  
+- Unknown  
+- Atmospheric  
+- Indian horror  
+- Intrigue  
+- Helplessness  
+- Weird, beyond comprehension  
+- Eldritchian , but more cosmic horror  
+- Fucked up version of Oregon trail  
+- Beauty in the eerie, like moment mr blanky finds the passage  
+- I want it to have heart

@@ -1,0 +1,12 @@
+- An AI trying it's best to keep everyone alive, after failing it's mission to reach destination.  
+ compartment  
+- A ship crew system similar to royal Navy system.  
+- Our protagonist wakes up expecting to start his shift/start the seeding process, finds himself in a dark and monstrous ship populated with demons and a cosmic horror. He slowly finds out the establishment of the colony was actually successful, though there were faults which meant not everyone would be able to wake up, so including him and few others are placed in storage for later revival.  
+- The cosmic event unfortunately happens around them at the time of seeding.  
+- Birth of a celestial? a thing got on board? it called them.?
+- There is cargo cult . The AI upon waking up after deploying the seedship onto the planet sees that there is a cargo cult, somebody was awoken just before the ai slumber happened. AI was helpless, he couldn't really do anything other than letting them be, they were too deformed to go back into stasis. but since he was determined t save them, he planned a system for them, first he revealed himself to them and then told them how to live.  
+- The reason things had started to go down shitty is because of an eldritch entity that resided in the deep space since the beginning of time.  
+- Clarcktech failing leading to some real weird shit  
+- Omega level threat? - where is the universe? Can we know where we are absolutely? What's beyond nothing?  
+- Indian mythological demons 
+- He ran away after his mother passed away, grief and how he handles grief

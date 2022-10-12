@@ -1,0 +1,4 @@
+- Colonialism allegory- the ship is being sent to make sur ethe people on the colony are in order.
+- Rich class divided from a low class even in a sleeper ship  
+- past soicetal politics reflecting decisions taken aboard the ship
+- People making simple honest human mistakes that have really fucked up consequences.

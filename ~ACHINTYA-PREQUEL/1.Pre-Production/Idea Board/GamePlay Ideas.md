@@ -1,0 +1,5 @@
+- A sharp pain in your abdomen later could turn to be a deadly disease
+- There should a be singular main goal that the player needs to achieve - could be to - survive, save people,
+- game only pauses on menu screen and not inventory
+- there are sick npcs, you can help them but there is a catch, there is chance you can catch the disease and there is also a chance that you gain nothing out of doing so , sometimes you may get interesting conversations and other times coin or item
+- you can send back some people to help you gain different abilities, that's if people are willing to go back, you can go back with them, but that will consume your resources, but if you chose for them to go back by themselves there is mid high chance they might die or lose their ability all together

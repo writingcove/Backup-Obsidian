@@ -1,0 +1,33 @@
+{
+  "dayCounts": {
+    "2022/9/1": 26,
+    "2022/9/2": 119,
+    "2022/9/4": 120,
+    "2022/9/5": 919,
+    "2022/9/6": 269,
+    "2022/9/7": 484,
+    "2022/9/8": 187,
+    "2022/9/9": 112,
+    "2022/9/10": 17,
+    "2022/9/11": 26,
+    "2022/9/12": 381
+  },
+  "todaysWordCount": {
+    "~Z-Current Work/Short Story - Invalid in mind.md": {
+      "initial": 1626,
+      "current": 1629
+    },
+    "~Z-Daily Do/Templates & Misc/Work Outlines.md": {
+      "initial": 138,
+      "current": 516
+    },
+    "~Z-Daily Do/Templates & Misc/Daily Journal Template.md": {
+      "initial": 8,
+      "current": 8
+    },
+    "~Z-Daily Do/Templates & Misc/Work Space Template.md": {
+      "initial": 75,
+      "current": 75
+    }
+  }
+}

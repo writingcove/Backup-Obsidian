@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "844c48919d2a2e7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "263a3b116fc49b61",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Networking.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8e7c31354908733a",
+    "type": "split",
+    "children": [
+      {
+        "id": "da05fbbbe6f8ba54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edf2789883cb3126",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e524c0ca930a1ff1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "db54648d06d57904",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b795350bd398de8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d88e1ecb7c21eb49",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Networking.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "263a3b116fc49b61",
+  "lastOpenFiles": [
+    "Networking.md",
+    "Untitled.md",
+    "Four Moons Work/Path of Vigour outline.md",
+    "Four Moons Work/Questions regarding the story of OCCI.md",
+    "Four Moons Work/1st story meet outline.md",
+    "Four Moons Work/AJ Idea.md",
+    "Acintya/Acintya world building & themes.md",
+    "Acintya/Outline.md",
+    "Acintya/Early backstory.md",
+    "Upwork Work/proposal 2.md"
+  ]
+}

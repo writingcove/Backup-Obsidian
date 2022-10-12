@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "844c48919d2a2e7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad7b56495586ac15",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "~Z-Current Work/Short Story - Me illness.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "01916b5b6b4cea24",
+    "type": "split",
+    "children": [
+      {
+        "id": "68db2ed5a5b2e69a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45c2b0ff584b99ca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "feb7182a5564e910",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "915bbf8f7e52a43b",
+    "type": "split",
+    "children": [
+      {
+        "id": "569d7557e7ce3383",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e01c7f0840a7815",
+            "type": "leaf",
+            "state": {
+              "type": "stats-tracker",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ad7b56495586ac15",
+  "lastOpenFiles": [
+    "~Z-Daily Do/Daily Journal/October/2022-10-07.md",
+    "~Finding Work/& Resources/$ Cover Letters/Frontier Cover Letter.md",
+    "~Finding Work/& Resources/Work experience summary.md",
+    "~Finding Work/& Resources/Reworking portfolio and cover letter.md",
+    "~Finding Work/& Resources/Places to Market YourSelf.md",
+    "~Finding Work/& Resources/Networking.md",
+    "~Finding Work/& Resources/Job Application Resrources.md",
+    "~Finding Work/& Resources/Interview questions to ask.md",
+    "~Finding Work/& Resources/$ Pitches/Pitch Myself - Fatshark.md",
+    "~Finding Work/& Resources/$ Pitches/In detail the work I used to do back in Great Learning.md"
+  ]
+}

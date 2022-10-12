@@ -1,0 +1,10 @@
+{
+  "promptDelete": false,
+  "communityPluginSortOrder": "download",
+  "fileSortOrder": "alphabetical",
+  "livePreview": true,
+  "readableLineLength": true,
+  "spellcheck": true,
+  "showLineNumber": false,
+  "strictLineBreaks": false
+}

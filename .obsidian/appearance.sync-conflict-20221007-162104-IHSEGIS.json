@@ -1,0 +1,10 @@
+{
+  "baseFontSize": 19,
+  "theme": "obsidian",
+  "cssTheme": "Primary",
+  "translucency": false,
+  "enabledCssSnippets": [
+    "justify",
+    "linelength"
+  ]
+}

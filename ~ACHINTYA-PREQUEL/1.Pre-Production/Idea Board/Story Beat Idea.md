@@ -1,0 +1,2 @@
+- Unable to enter the room where his friend is being devoured by that creature, he just sits there, alone in the darkness, on themotherside of wall.
+- something is watcing you, it's only eluded through subtle hints.

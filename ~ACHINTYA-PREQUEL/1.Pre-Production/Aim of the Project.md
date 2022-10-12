@@ -1,0 +1,6 @@
+- To make a Game
+- Create an Immersive Game
+- Create an enjoyable gameplay loop
+- Create a world
+- Publish a game on PC & Mobile
+- Practice & Polish these skills - UX, Narrative Design, Game Design, Audio Design, Programming, World Building.

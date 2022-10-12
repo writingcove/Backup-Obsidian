@@ -1,0 +1,28 @@
+{
+  "dayCounts": {
+    "2022/9/1": 26,
+    "2022/9/2": 119,
+    "2022/9/4": 120,
+    "2022/9/5": 919,
+    "2022/9/6": 269,
+    "2022/9/7": 484
+  },
+  "todaysWordCount": {
+    "~Z-Current Work/Short Story - Me illness.md": {
+      "initial": 1964,
+      "current": 1626
+    },
+    "~Finding Work/& Resources/$ Cover Letters/Frontier Team.md": {
+      "initial": 4,
+      "current": 254
+    },
+    "~Finding Work/& Resources/$ Cover Letters/Frontier Cover Letter.md": {
+      "initial": 253,
+      "current": 380
+    },
+    "~Z-Daily Do/Daily Journal/October/2022-10-07.md": {
+      "initial": 12,
+      "current": 119
+    }
+  }
+}

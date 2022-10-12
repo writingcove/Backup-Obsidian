@@ -1,0 +1,7 @@
+- Consolidate all of the work of alex and you together in one place.
+- Create City of Honongvile and lore to go with it. And maybe the environment.
+- write king's back story and family history
+- come up with an idea for logistics of iron.
+- come up with idea for how to implement bible and narrative pipeline
+- ask for a meeting date
+- ask meeting questions

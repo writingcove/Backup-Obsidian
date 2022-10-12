@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "844c48919d2a2e7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f416f819b0dfc2ac",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "~Z-Log and Journal/Journal/2022-10-01.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "755242ddacc14b68",
+    "type": "split",
+    "children": [
+      {
+        "id": "95b7574036a49f9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7522ef4d473e78e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "83c5308fe258bb0b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 257.5
+  },
+  "right": {
+    "id": "0edffbf0cf4b0101",
+    "type": "split",
+    "children": [
+      {
+        "id": "acf9ebb6f5a9be8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79c94542476217d8",
+            "type": "leaf",
+            "state": {
+              "type": "stats-tracker",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f416f819b0dfc2ac",
+  "lastOpenFiles": [
+    "~Z-Log and Journal/Journal/2022-10-02.md",
+    "~Writtern Work/& Four Moons/Path of Vigour outline.md",
+    "~Writtern Work/& Four Moons/Questions for Jack.md",
+    "~Writtern Work/& Four Moons/Questions regarding the story of OCCI.md",
+    "~Writtern Work/& Four Moons/Path of Vigour - Religious Beliefs.md",
+    "~Writtern Work/& Four Moons/NPC ideas.md",
+    "~Writtern Work/& Four Moons/MEETING QUESTIONS.md",
+    "~Writtern Work/& Four Moons/Creation.md",
+    "~Writtern Work/& Four Moons/Four Moons To Do lists.md",
+    "~Writtern Work/& Four Moons/1st story meet outline.md"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "main": {
+    "id": "844c48919d2a2e7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "69c7ce2ac286ecc6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "~Finding Work/& Resources/Job Application Resrources.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "24129c65a29561b5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "bb52851c33335cbb",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "f310b65c6da0276b",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "661a48594d0ae5fb",
+    "type": "mobile-drawer",
+    "children": [],
+    "currentTab": 0
+  },
+  "active": "69c7ce2ac286ecc6",
+  "lastOpenFiles": [
+    "~Finding Work/& Resources/Job Application Resrources.md",
+    "~Finding Work/& Resources/Applying Resources.md",
+    "~Finding Work/& Learning what I want/JD - what does a ND do.md",
+    "~Finding Work/& Learning what I want/Old notes that help - narrative design job.md",
+    "~Finding Work/& Learning what I want/What Kind of Designer Do You Want to Become.md",
+    "~Finding Work/& Learning what I want/Creative Taste Discovery.md",
+    "~Finding Work/& Resources/Places to Market YourSelf.md",
+    "~Z-Log and Journal/Journal/2022-10-01.md",
+    "~Z-Log and Journal/Log.md",
+    "~Z-Log and Journal/Journal/2022-09-30.md"
+  ]
+}

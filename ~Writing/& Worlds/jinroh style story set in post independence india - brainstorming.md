@@ -1,0 +1,9 @@
+
+What part od jin-roh do you want to include in your world inspired by it?
+
+I liked the political intrigue between the governmental agencies to grab more power or even remain in power. Jin roh takes places a little after WW2 ends.
+
+So in our universe India was liberated a little later in the 50s and was always within algosphere. In this universe india did not partition and included both pakistan and bangladesh. The tensions between the muslim side and hindu sides are even more tense. While the public is trying to find targets to lynch the country is being plundered by corrupt officials. They distract the public by pointing fingers at other religions to stave the fire of communalism and then continue to plunder the resources of the country. Because of the raised tensions, there are sepratist rebels that have proped up all across india. But the one that we want to focus on is a marxist rebel group secretly being funded by bejing and russia. They have a very strong base in the nothern states and there have been very large scale insrrections across the country about it. There is large scale discrimination against the northeastindians because of it. To help avoid the insurectionist from rising up in a large scale rebelion the indian government has set up a special force of enforces armed to the teeth with latest weapons and experimental armour from the west. 
+
+This special task force of members is comprimised of multiple infamous corps from around india - the maratha one, the punjab one, the gurkha one, the assam one, the tamil one.
+The gurkha one is the one that's under the direct control of the home minister and hence central government, the rest have divided control between the state and the central government.

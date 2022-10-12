@@ -1,0 +1,5 @@
+I believe stories are very important - all, fantastical ones, bitter ones, hopeful ones, inspirational ones, sad ones - all types of stories are important. They teach us so muc, thye help us take decisions when we need guidance. Stories have been an ancient tradition of humans, they are a medium to transfer knowledge in all forms.  
+  
+Today we live in a world where we humans don't need conventional storytelling to transfer knowledge. We have devised different more efficient ways to do so. We , in our globalized world can now reach distant others that we couldn't before. This level of storytelling is very powerful as it has effects on so many people of so many different backgrounds. (Explore this)  
+  
+But as they say with great power in the right hands can make or break the world. We see this happening with our world right now. People are brainwashed through media unto believing that the villian that hurts them is their savior. And hence either want to tell a story where we talk about the powerful effects of media and what happens when it's used for Ill purpose.
